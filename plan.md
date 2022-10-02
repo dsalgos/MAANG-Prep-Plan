@@ -52,7 +52,9 @@ PLAN for cracking MAANG interview
 
 <h5>[System Design](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design)</h5>
 <h5>HLD (Tutorials)</h5>
+
 <ul>
+  <li>Understanding Functional and Non-Functional Requirements
   <li>Youtube Design - https://t.co/26ro70AavE
   <li>URL Shortner - https://t.co/0R0Kt223Dq
   <li>WhatsApp- https://t.co/Lj99Pe0hZt
@@ -106,6 +108,8 @@ PLAN for cracking MAANG interview
 <li>Scheduling
 <li>IPC
 <li>Page Faults
+<li>FDs
+<li>Buffers
 <li>hypervisor (not exactly a OS concept!!)
 </ul>
 
