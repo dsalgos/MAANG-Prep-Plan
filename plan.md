@@ -12,6 +12,7 @@ PLAN for cracking MAANG interview
 <h4>DS Topics</h4>
 <ol>
 <li>Arrays
+<li>Math
 <li>Strings
 <li>Trees
 <li>Heaps
