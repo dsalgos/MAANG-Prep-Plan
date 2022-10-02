@@ -51,7 +51,7 @@ PLAN for cracking MAANG interview
 <h3>System Design</h3>
 
 <h5>[System Design](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design)</h5>
-<h6>HLD</h6>
+<h5>HLD (Tutorials)</h5>
 <ul>
   <li>Youtube Design - https://t.co/26ro70AavE
   <li>URL Shortner - https://t.co/0R0Kt223Dq
