@@ -13,7 +13,6 @@ PLAN for cracking MAANG interview
 <h4>DS Topics</h4>
 <ol>
 <li>Arrays
-<li>Math
 <li>Strings
 <li>Trees
 <li>Heaps
@@ -26,13 +25,14 @@ PLAN for cracking MAANG interview
 
 
 
-<h3>Algorithms</h3>
+<h4>Algorithms</h4>
 
 <ol>
 <li>Big-O notations, Asymptotic analysis
+<li>Math
 <li>Recursion
 <li>Dynamic Programming
-<li> Backtracking
+<li>Backtracking
 <li>Iterative problems
 <li>Knap-sack
 <li>Tree Manipulations
@@ -44,4 +44,35 @@ PLAN for cracking MAANG interview
 <li>Travel salesman problem
 <li>Symbol tables
 <li>BFS, DFS
+<li>Bitwise Manipulations
 </ol>
+
+
+<h3>System Design</h3>
+
+<h5>[System Design](https://github.com/Jeevan-kumar-Raj/Grokking-System-Design)</h5>
+<h6>HLD</h6>
+<ul>
+  <li>Youtube Design - https://t.co/26ro70AavE
+  <li>URL Shortner - https://t.co/0R0Kt223Dq
+  <li>WhatsApp- https://t.co/Lj99Pe0hZt
+<li>Parking Lot - https://t.co/NvWS6iHWAR
+<li>Instagram - https://t.co/2Les3PBQB6
+<li>TinyURL - https://t.co/I5um0X72I1 
+</ul>
+ 
+<h5> LLD Techniques</h5>
+
+<ul>
+  <li>Communication Channels
+  <li>Distribution & Scaling Techniques
+  <li>Load Balancers
+  <li>Messaging Queues
+  <li>Caching
+  <li>Partitioning and Sharding Techniques
+  <li>Database design and choice
+  <li>HA Architecture
+  <li>Failover strategies
+  <li>Big Data and Cloud design patterns
+  
+</ul>
