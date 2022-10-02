@@ -4,8 +4,9 @@ PLAN for cracking MAANG interview
 
 <h3>DSA Resources</h3>
 
-<li>Geeksforgeeks</li>
-<li>Leetcode</li>
+<li>[Geeksforgeeks](https://www.geeksforgeeks.org/)</li>
+<li>[Leetcode](https://leetcode.com/)</li>
+<li>[InterviewBit](https://www.interviewbit.com/)</li>
 
 
 
