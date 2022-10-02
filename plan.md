@@ -79,3 +79,14 @@ PLAN for cracking MAANG interview
   <li>Capacity Estimation
   <li>Handle Murphy's Law
 </ul>
+
+
+<h3>Operating System</h3>
+<ul>
+<li>Threads
+<li>Context Switching
+<li>Resource Allocation
+<li>Concurrency 
+<li>Scheduling
+<li>IPC
+</ul>
