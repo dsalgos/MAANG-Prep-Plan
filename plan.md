@@ -89,6 +89,6 @@ PLAN for cracking MAANG interview
 <li>Concurrency & Deadlock
 <li>Scheduling
 <li>IPC
-<li>hypervisor
+<li>hypervisor (not exactly a OS concept!!)
 </ul>
 
