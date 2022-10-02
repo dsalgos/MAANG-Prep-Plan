@@ -83,10 +83,12 @@ PLAN for cracking MAANG interview
 
 <h3>Operating System</h3>
 <ul>
-<li>Threads
+<li>Threads & Processes
 <li>Context Switching
 <li>Resource Allocation
-<li>Concurrency 
+<li>Concurrency & Deadlock
 <li>Scheduling
 <li>IPC
+<li>hypervisor
 </ul>
+
