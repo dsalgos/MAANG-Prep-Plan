@@ -67,6 +67,7 @@ PLAN for cracking MAANG interview
   <li>Communication Channels
   <li>Distribution & Scaling Techniques
   <li>Load Balancers
+  <li>Split brain problem
   <li>Messaging Queues
   <li>Caching
   <li>Partitioning and Sharding Techniques
@@ -74,5 +75,7 @@ PLAN for cracking MAANG interview
   <li>HA Architecture
   <li>Failover strategies
   <li>Big Data and Cloud design patterns
-  
+  <li>Leader Election algorithms
+  <li>Capacity Estimation
+  <li>Handle Murphy's Law
 </ul>
