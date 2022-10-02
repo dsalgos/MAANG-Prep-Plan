@@ -23,3 +23,23 @@ PLAN for cracking MAANG interview
 <li>Hash table
 </ol>
 
+
+
+<h3>Algorithms</h3>
+
+<ol>
+<li>Big-O notations, Asymptotic analysis
+<li>Recursion
+<li>Dynamic Programming
+<li>Iterative problems
+<li>Knap-sack
+<li>Tree Manipulations
+<li>Sorting
+<li>Searching
+<li>Hashing
+<li>String Algorithms
+<li>Divide and Conquer
+<li>Travel salesman problem
+<li>Symbol tables
+<li>BFS, DFS
+</ol>
