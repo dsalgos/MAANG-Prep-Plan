@@ -32,6 +32,7 @@ PLAN for cracking MAANG interview
 <li>Big-O notations, Asymptotic analysis
 <li>Recursion
 <li>Dynamic Programming
+<li> Backtracking
 <li>Iterative problems
 <li>Knap-sack
 <li>Tree Manipulations
