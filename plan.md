@@ -81,6 +81,21 @@ PLAN for cracking MAANG interview
   <li>Handle Murphy's Law
 </ul>
 
+<h3>Java and dev tools</h3>
+<ul>
+  <li>Java 8,9
+  <li>JUnit
+  <li>Multi-threading
+  <li>GC
+  <li>JVM Internals
+  <li>Spring Boot
+  <li>KAFKA
+  <li>MySQL
+  <li>Docker & Kubernetes
+  <li>OOPS & Design Patterns
+  <li>Regex
+</ul>
+
 
 <h3>Operating System</h3>
 <ul>
@@ -90,6 +105,14 @@ PLAN for cracking MAANG interview
 <li>Concurrency & Deadlock
 <li>Scheduling
 <li>IPC
+<li>Page Faults
 <li>hypervisor (not exactly a OS concept!!)
 </ul>
 
+
+<h3>Networking Concepts</h3>
+<li>TCP IP
+<li>Routing Algorithms
+<li>Traffic & Congestion handling
+<li>Tokenization
+<li>Handshaking
