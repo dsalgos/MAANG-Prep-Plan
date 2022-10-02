@@ -64,6 +64,7 @@ PLAN for cracking MAANG interview
 <h5> LLD Techniques</h5>
 
 <ul>
+  <li>OOPS
   <li>Communication Channels
   <li>Distribution & Scaling Techniques
   <li>Load Balancers
