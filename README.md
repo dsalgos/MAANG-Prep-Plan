@@ -28,8 +28,8 @@ PLAN for cracking MAANG interview
 <h4>Algorithms</h4>
 
 <ol>
-<li>Big-O notations, Asymptotic analysis (In Progress)
-<li>Math
+<li>Big-O notations, Asymptotic analysis (Practise more and more)
+<li>Math (In Progress)
 <li>Recursion
 <li>Dynamic Programming
 <li>Backtracking
